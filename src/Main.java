@@ -7,8 +7,9 @@ public class Main {
         int n = scanner.nextInt();
         if (n % 2 == 0){
             System.out.println("Число парне");
-        }else {
+        }else{
             System.out.println("Число непарне");
         }
+        System.out.println("The end");
     }
 }
